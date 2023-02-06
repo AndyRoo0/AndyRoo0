@@ -18,7 +18,7 @@
 <table align="center" border="0">
 <tr>
 <td>
- <h2>Full Stack Web Developer</h2>
+ <h2 align="center">#️⃣ Full Stack Web Developer</h2>
 </td>
 <td>
   <h2 align="center">🧰My Toolbox (A-Z)</h2>
@@ -26,15 +26,15 @@
 </tr>
 <tr>
 <td>
-<div id="header" align="center">
+<div>
  <ul>
  <li>🖥 Based in Oxfordshire, UK</li>
  <li>🌍 Remote working preferred</li>
  <li>✉️ Contact me at  <a href="mailto:andrew@eseeds.com">andrew@eseeds.com</a></li>
  </ul>
 
- <details>
- <summary>About me!</summary>
+ <details align="center">
+ <summary>🖱️ Read more about me!</summary>
  <p>Hi! I'm Andrew, I have studied as a motorsport engineer, worked as an
 aquarist and a medical research lab technician before starting my
 journey into code. Changing industries since university has allowed me to
@@ -133,7 +133,7 @@ and I am excited to see what I can do for you!</p>
 </table>
 
 <details id="header" align="center">
- <summary><h2>📈 Click to see my Github Stats</h2></summary>
+ <summary><h2>📈 See my Github Stats</h2></summary>
  <div align="center">
  <a href="http://www.github.com/AndyRoo0"><img src="https://github-readme-stats.vercel.app/api?username=AndyRoo0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="AndyRoo0's GitHub stats" /></a>
  <a href="https://github.com/AndyRoo0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRoo0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
