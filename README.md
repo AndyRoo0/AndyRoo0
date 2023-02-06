@@ -40,8 +40,7 @@ aquarist and a medical research lab technician before starting my
 journey into code. Changing industries since university has allowed me to
 explore many interests and ensured that I have further developed my
 talent for picking up new tools and learning quickly.
-Thank you for taking the time to consider welcoming me into your team,
-and I am excited to see what I can do for you!</p>
+Thank you for checking out my profile, give me a shout and lets see what I can do for you!</p>
  </details>
 </div>
 </td>
